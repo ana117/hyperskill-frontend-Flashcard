@@ -1,6 +1,5 @@
 # Flashcard
-A simple flashcard about capitals of various country. 
-
+A simple flashcard about capitals of various country.\
 Link to the project [Flashcard](https://hyperskill.org/projects/115).
 
 ## Demo
