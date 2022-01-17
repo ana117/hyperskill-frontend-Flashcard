@@ -2,6 +2,8 @@
 A simple flashcard about capitals of various country.\
 Link to the project [Flashcard](https://hyperskill.org/projects/115).
 
+Link to all of [my Hyperskill projects](https://github.com/ana117/hyperskilll-projects).
+
 ## Demo
 ![Flashcard](https://user-images.githubusercontent.com/63540951/127807085-bea125d4-9ce3-48aa-9e44-86ae1f40b236.gif)
 
